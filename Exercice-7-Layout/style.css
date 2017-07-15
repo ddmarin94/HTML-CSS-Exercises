@@ -1,0 +1,30 @@
+body{
+  width: 55%;
+  margin: 0 auto;
+  clear: both;
+}
+
+h1{
+  color: #bd8100
+}
+h2{
+  color: #bd8100
+}
+h3{
+  color: #bd8100
+}
+
+p{
+  color: #ff5f1d;
+  border-left: 15px solid  #bd8100;
+  padding-left: 10px;
+  font-size: 18px;
+}
+
+p strong{
+  font-weight: bold;
+}
+
+body ul li{
+  color: #bd8100;
+}

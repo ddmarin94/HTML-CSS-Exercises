@@ -1,0 +1,41 @@
+body{
+  width: 70%;
+  margin: 0 auto;
+  clear: both;
+}
+
+body div{
+  background-color: #ddd;
+  padding: 20px;
+}
+
+header{
+  width: 100%;
+  height: 200px;
+  background-color: #000;
+}
+nav{
+  width: 100%;
+  height: 20px;
+  background-color: #DDD;
+}
+aside{
+  width: 20%;
+  height: 800px;
+  background-color: green;
+  float: left;
+}
+
+section{
+  width: 80%;
+  height: 800px;
+  float: left;
+  background-color:purple;
+}
+
+footer{
+  width: 100%;
+  height: 200px;
+  background-color: #000;
+  clear: both;
+}
